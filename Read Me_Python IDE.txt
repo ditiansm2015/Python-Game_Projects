@@ -1,0 +1,9 @@
+*All the projects have been completed by Sudhanshu Mishra as part of "An     Introduction to Interactive Programming in Python Part-1 and Part-2 (RICE   UNIVERSITY" offered   by "Coursera"
+
+*The projects are done on CodeSkulptor and the projects may/may not run on    Python original IDE as some of the modules used in the projects are entirely     "CodeSkulptor IDE" based. 
+
+*To have a proper working of the project visit "http://www.codeskulptor.org/"
+
+*Paste the code on the codeskulptor and run it to see the real working of     project
+
+*The remaining projects will be added as soon as they get completed
